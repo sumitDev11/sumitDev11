@@ -23,7 +23,7 @@
 
 ### 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/sumitDev11/sumitDev11/output/snake.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/sumitDev11/sumitDev11/output/snake.svg" alt="Snake animation" />
 
 ###
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
