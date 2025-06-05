@@ -20,9 +20,10 @@
   <img src="https://profile-counter.glitch.me/sumitDev11/count.svg?"  />
 </div>
 
-###
-<img src="https://raw.githubusercontent.com/sumitDev11/sumitDev11/output/snake.svg" alt="Snake animation" />
 
-###
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/sumitDev11/sumitDev11/output/snake.svg" alt="snake animation" />
+
 ###
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
